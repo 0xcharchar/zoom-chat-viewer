@@ -1,0 +1,6 @@
+/node_modules/
+/public/build/
+.nyc_output
+
+.DS_Store
+*.swp
