@@ -43,6 +43,7 @@
     <section id="description">
       <h1>Zoom Chat Links</h1>
       <p>Parses out links that were posted in your chat</p>
+      <p><a href="https://peertube.co.uk/videos/watch/ca853ed2-afdf-448b-afb9-75dcee115dca">Video demo</a></p>
     </section>
 
     <section id="file-upload">
